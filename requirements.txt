@@ -17,9 +17,9 @@ jsonschema==4.17.3
 markdown-it-py==2.2.0
 MarkupSafe==2.1.2
 mdurl==0.1.2
-# mkl-fft
-mkl-random==1.2.2
-mkl-service==2.4.0
+mkl-fft
+mkl-random
+mkl-service
 numexpr==2.8.4
 numpy==1.23.5
 packaging==22.0
